@@ -1,6 +1,6 @@
 # Hi, I'm Hajrah 👋
 
-Final-year Computer Science student at [Your University]. I like building
+Final-year Computer Science student at FAST NUCES, Lahore. I like building
 web apps that solve real problems and I'm currently open to work. 
 
 ### 🔧 What I work with
