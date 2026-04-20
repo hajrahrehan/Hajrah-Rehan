@@ -4,17 +4,16 @@ Final-year Computer Science student at FAST NUCES, Lahore. I like building
 web apps that solve real problems and I'm currently open to work. 
 
 ### 🔧 What I work with
-- **Languages:** JavaScript/TypeScript, Python, Java, SQL
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, FastAPI, PostgreSQL
-- **Tools:** Git, Docker, AWS (learning)
+- **Languages:** Python, JavaScript, TypeScript, C++, SQL
+- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Responsive Design
+- **Backend:** Node.js, NestJS, Electron.js, REST APIs, FastAPI, PostgreSQL, Supabase
+- **AI / Machine Learning:** TensorFlow, Keras, Pandas, LLM Integration, Prompt Engineering, LangChain
+- **Tools & Platforms:** Git, GitHub, Docker, AWS (learning), Figma, Google Analytics, Cloud Deployment
+
 
 ### 🚀 Featured projects
-- **[TradeFlow](link)** — [one-line description]
-- **[Project 2](link)** — [one-line description]
-- **[Project 3](link)** — [one-line description]
+- **[Mnemo](https://mnemo-gilt.vercel.app/)** — AI study tool that turns textbook PDFs into flashcards and schedules them with the SM-2 spaced-repetition algorithm. Built with Next.js, Supabase, and Groq.
 
 ### 📫 Get in touch
-- Email: you@example.com
-- LinkedIn: [linkedin.com/in/you](...)
-- Portfolio: [yoursite.com](...)
+- Email:  hajrahrehan5@gmail.com  
+- LinkedIn:  linkedin.com/in/hajrah-rehan
